@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![CSDN](https://img.shields.io/badge/CSDN-234-red)](https://blog.csdn.net/mark_md/category_10794878.html)
+[![CSDN](https://img.shields.io/badge/Blog-CSDN-red)](https://blog.csdn.net/mark_md/category_10794878.html)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhiliangMa)](https://github.com/anuraghazra/github-readme-stats)
