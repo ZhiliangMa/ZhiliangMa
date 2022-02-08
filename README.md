@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![CSDN](https://img.shields.io/badge/Blog-CSDN-red)](https://blog.csdn.net/mark_md/category_10794878.html)
 
-[![QQ](https://img.shields.io/badge/QQ-1451744812-blue)]
+![QQ](https://img.shields.io/badge/QQ-1451744812-blue)
 
 <table>
 <tr>
